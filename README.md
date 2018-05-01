@@ -1,4 +1,5 @@
-# MERN-boilerplate
+# Landing Page
+# 1. Design Stage 
 
 This is a boilerplate project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
